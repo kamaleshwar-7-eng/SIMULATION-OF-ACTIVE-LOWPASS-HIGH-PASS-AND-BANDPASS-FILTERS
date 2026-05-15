@@ -18,7 +18,36 @@ LT-Spice
 
 
 ## SIMULATION OUTPUT:
+### LOW PASS:
 
+<img width="891" height="568" alt="Low pass filter" src="https://github.com/user-attachments/assets/74133ada-8b3c-4313-ac1e-22afde006fb0" />
+
+### LOW PASS GRAPH:
+
+<img width="1232" height="651" alt="Low pass graph" src="https://github.com/user-attachments/assets/9d6bc80a-6d54-4ad6-9046-13609bcc6b4e" />
+
+#
+
+## HIGH PASS:
+
+<img width="999" height="643" alt="High pass filter" src="https://github.com/user-attachments/assets/146543f6-f2dc-46d4-a81c-ff113f053d88" />
+
+### HIGH PASS GRAPH:
+
+<img width="1272" height="667" alt="High pass graph" src="https://github.com/user-attachments/assets/062ae4a1-572b-4466-b54b-5e354fcade78" />
+
+#
+
+## BAND PASS:
+
+<img width="906" height="474" alt="Band pass filter" src="https://github.com/user-attachments/assets/b33e47a4-148a-4beb-a256-289f893d6f62" />
+
+
+### BAND PASS GRAPH:
+
+<img width="1461" height="566" alt="Band pass graph" src="https://github.com/user-attachments/assets/49f6e639-5f14-4d82-8a9b-c9e11df5b9bc" />
+
+#
 
 ## RESULT :
 
