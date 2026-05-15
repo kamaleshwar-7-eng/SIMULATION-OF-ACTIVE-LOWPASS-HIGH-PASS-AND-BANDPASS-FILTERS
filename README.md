@@ -28,7 +28,7 @@ LT-Spice
 
 #
 
-## HIGH PASS:
+### HIGH PASS:
 
 <img width="999" height="643" alt="High pass filter" src="https://github.com/user-attachments/assets/146543f6-f2dc-46d4-a81c-ff113f053d88" />
 
@@ -38,7 +38,7 @@ LT-Spice
 
 #
 
-## BAND PASS:
+### BAND PASS:
 
 <img width="906" height="474" alt="Band pass filter" src="https://github.com/user-attachments/assets/b33e47a4-148a-4beb-a256-289f893d6f62" />
 
