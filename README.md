@@ -45,7 +45,8 @@ LT-Spice
 
 ### BAND PASS GRAPH:
 
-<img width="1461" height="566" alt="Band pass graph" src="https://github.com/user-attachments/assets/49f6e639-5f14-4d82-8a9b-c9e11df5b9bc" />
+<img width="1208" height="669" alt="image" src="https://github.com/user-attachments/assets/0bb7b55f-8f8c-4788-bec5-98c0812105b7" />
+
 
 #
 
